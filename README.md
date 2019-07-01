@@ -3,4 +3,6 @@ installer.php - установочный файл проекта<br><br>
 
 testform.php - основной файл реализации формы<br><br>
 
-Путь к файлу реализации формы в архиве wp-content\themes\clean-commerce-child\testform.php
+Путь к файлу реализации формы в архиве wp-content\themes\clean-commerce-child\testform.php<br><br>
+
+Пример реализации в сети - <a href="http://testform2.cubacraft.su/">тут</a>
